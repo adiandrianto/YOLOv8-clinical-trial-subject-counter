@@ -1,4 +1,5 @@
 To build YOLOv8 model using custom dataset wee need to collect and annotate the data.
+
 Link to video showcase: https://www.linkedin.com/feed/update/urn:li:activity:7146423128448000000/
 
 I used [CVAT](cvat.ai) to annotate my dataset.
